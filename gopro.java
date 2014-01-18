@@ -16,7 +16,7 @@ import javax.swing.text.html.HTMLDocument;
 public class ExtractAllImages {
     public static void main(String args[]) throws Exception {
 
-        String webUrl = "http://10.5.5.9:8080/videos/DCIM/100GOPRO"; //100GOPRO IS SPECIFIED HERE, JUST CHANGE 100 BY THE NUMBER IF THE FOLDER WHER ALL THE OICS ARE.
+        String webUrl = "http://10.5.5.9:8080/videos/DCIM/100GOPRO"; //100GOPRO IS SPECIFIED HERE, JUST CHANGE 100 BY THE NUMBER OF THE FOLDER WHER ALL THE PICS ARE.
         URL url = new URL(webUrl);
         URLConnection connection = url.openConnection();
         InputStream is = connection.getInputStream();
