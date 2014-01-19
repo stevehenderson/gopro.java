@@ -1,4 +1,4 @@
-// GoPro Activity by @moohtwo , tweaked by @konradit
+// GoPro Activity by @takyonxxx , tweaked by @konradit
 
 package com.gopromanager;
 
