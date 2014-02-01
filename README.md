@@ -1,8 +1,6 @@
 gopro.java
 ==========
 
-gopro.java, a java file that downloads all the pics from the GoPro cam via WiFI.
+Browse the folders to download the desired java file.
 
-gopro2.java, a file that triggers the gopro with a button.
-
-gopro3.java, a control java file
+Build the java file into a jar file using the java tools from oracle.
